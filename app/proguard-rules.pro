@@ -1,0 +1,39 @@
+# Add project specific ProGuard rules here.
+# You can control the set of applied configuration files using the
+# proguardFiles setting in build.gradle.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+# Uncomment this to preserve the line number information for
+# debugging stack traces.
+#-keepattributes SourceFile,LineNumberTable
+
+# If you keep the line number information, uncomment this to
+# hide the original source file name.
+#-renamesourcefileattribute SourceFile
+
+# Preserve the line number information for debugging stack traces.
+-keepattributes LineNumberTable,SourceFile
+-renamesourcefileattribute SourceFile
+
+# Delete all logDebug calls
+-assumenosideeffects class dev.bytebooster.chatmagicai.ExtensionsKt {
+    static void logDebug(java.lang.String);
+}
+
+# Detele all .printStackTrace() calls
+-assumenosideeffects class java.lang.Throwable {
+    void printStackTrace();
+}
+
+# Don't minify onnxruntime
+-keep class ai.onnxruntime.** { *; }
+-dontwarn ai.onnxruntime.**

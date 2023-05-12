@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ChatMagic AI</string>
+    <string name="title_activity_chat_screen" translatable="false">ChatScreen</string>
+    <string name="chat_with_chatmagic_ai">Chat with ChatMagic AI</string>
+    <string name="message">Message</string>
+    <string name="coming_soon">Coming Soon!</string>
+    <string name="this_feature_will_be_added_stay_tuned">This feature will be added in soon. Please stay tuned :)</string>
+    <string name="downloading_the">Downloading the</string>
+    <string name="ai_model">AI Model</string>
+    <string name="downloading">Downloading…</string>
+    <string name="continue_text">Continue</string>
+    <string name="my_app_name" translatable="false">ChatMagic AI</string>
+    <string name="back_to_my_chat">Back to my chat</string>
+    <string name="chat_history">Chat history</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="terms_of_service">Terms of service</string>
+    <string name="please_select_your">Please Select Your</string>
+    <string name="by_continuing_you_agree_to_our">By continuing, you agree to our [privacy policy](%s) and [terms of service](%s).</string>
+    <string name="different_ai_models_have_different">Different AI models have different system requirements and chat accuracy. Please select a model that fits your device.</string>
+    <string name="your_personal_ai_assistant_is_rthya">Your personal AI assistant is ready to help you anytime, even without internet connection!</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="chatmagic_ai_small" translatable="false">ChatMagic AI Lite</string>
+    <string name="chatmagic_ai_medium" translatable="false">ChatMagic AI (Recommended)</string>
+    <string name="chatmagic_ai_large" translatable="false">ChatMagic AI Plus</string>
+    <string name="chatmagic_ai_test" translatable="false">ChatMagic AI Test</string>
+    <string name="desc_model_small">The most lightweight AI chat assistant model for mobile. Recommended for old devices with low RAM. Size: 150 MB.</string>
+    <string name="desc_model_medium">Recommended for most AI assistant use cases. Better chat experience and accuracy than the Lite AI model. Size: 400 MB.</string>
+    <string name="desc_model_large">The most accurate AI chat model for mobile. Gives more accurate responses than other models. Size: 900 MB.</string>
+    <string name="desc_model_test">Test AI model. Not recommended for public use.</string>
+    <string name="contact_us">Contact us</string>
+    <string name="change_ai_model">Change AI model</string>
+    <string name="delete_ai_model">Delete AI model</string>
+    <string name="sample_chat_user_1">Please write a letter to my teacher that informs I\'m sick so I can\'t go to school.</string>
+    <string name="sample_chat_ai_1">Dear [Teacher\'s Name], I hope this letter finds you in good health.\n\nI am writing to inform you that I am feeling unwell and, as a result, will not be able to attend school today. I have consulted a doctor and they have advised me to stay at home and rest until I am fully recovered.\n\nThank you for your understanding and I hope to be back in school soon.</string>
+    <string name="unable_to_delete_aca">Unable to delete a currently active AI model</string>
+    <string name="ai_model_to_delete">AI Model to Delete</string>
+    <string name="success_delete_ai_model_file">Success delete AI model file</string>
+    <string name="the_updated_version_of_this_ai_model">The updated version of this AI model with performance and accuracy improvements.</string>
+    <string name="delete_text">Delete</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="by_continuing_you_agree">By continuing, you agree to our Terms of Service and Privacy Policy (Click here to view)</string>
+    <string name="keep_in_mind_delete">Keep in mind that once deleted, you need to download the model again.</string>
+    <string name="fetch_notification_default_channel_id" translatable="false">5432154321</string>
+    <string name="fetch_notification_default_channel_name" translatable="false">DefaultFetchChannelName</string>
+    <string name="fetch_notification_download_pause" translatable="false">Pause</string>
+    <string name="fetch_notification_download_cancel" translatable="false">Cancel</string>
+    <string name="fetch_notification_download_resume" translatable="false">Resume</string>
+    <string name="fetch_notification_download_complete" translatable="false">Download Completed</string>
+    <string name="fetch_notification_download_failed" translatable="false">Download Failed</string>
+    <string name="fetch_notification_download_paused" translatable="false">Download Paused</string>
+    <string name="fetch_notification_download_starting" translatable="false">Starting Download...</string>
+    <string name="fetch_notification_download_downloading" translatable="false">Downloading</string>
+    <string name="fetch_notification_download_eta_hrs" translatable="false">%1$dh %2$dm %3$ds left</string>
+    <string name="fetch_notification_download_eta_min" translatable="false">%1$dm %2$ds left</string>
+    <string name="fetch_notification_download_eta_sec" translatable="false">%1$ds left</string>
+    <string name="notification_is_needed">Notification is needed to show the download progress</string>
+    <string name="hello_im_chatmagic">Hello! I\'m ChatMagic AI. I\'m here to assist you. I can do the following:\n1. Answer questions and give explanations\n2. Assist in writing a text based content\n3. Follow simple instructions\n\nHowever, I still have limitations. I may write incorrect information or produce harmful instructions. Please use me with caution.</string>
+    <string name="there_is_an_error">There is an error on loading the AI model. Please restart the app to resolve this issue. Closing the app in 10 seconds…</string>
+    <string name="chatmagic_ai_writing">ChatMagic AI (Writing…)</string>
+
+</resources>

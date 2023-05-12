@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatMagic AI</string>
+    <string name="chat_with_chatmagic_ai">Percakapan ChatMagic AI</string>
+    <string name="message">Pesan</string>
+    <string name="coming_soon">Segera Datang!</string>
+    <string name="this_feature_will_be_added_stay_tuned">Fitur ini bakal segera datang.</string>
+    <string name="downloading_the">Mendownload</string>
+    <string name="ai_model">Model AI</string>
+    <string name="downloading">Mendownload…</string>
+    <string name="continue_text">Lanjut</string>
+    <string name="back_to_my_chat">Kembali ke pesan</string>
+    <string name="chat_history">Riwayat pesan</string>
+    <string name="dark_mode">Mode malam</string>
+    <string name="send_feedback">Kirim umpan balik</string>
+    <string name="privacy_policy">Kebijakan privasi</string>
+    <string name="terms_of_service">Ketentuan layanan</string>
+    <string name="please_select_your">Silahkan Pilih</string>
+    <string name="by_continuing_you_agree_to_our">Dengan melanjutkan, kamu menyetujui [kebijakan privasi](%s) dan [ketentuan layanan](%s).</string>
+    <string name="different_ai_models_have_different">Model AI yang berbeda memiliki akurasi jawaban dan spesifikasi perangkat yang berbeda. Pilih model yang sesuai kebutuhan kamu.</string>
+    <string name="your_personal_ai_assistant_is_rthya">Asisten AI pribadi yang siap bantu kamu kapan saja, tanpa koneksi internet!</string>
+    <string name="welcome_to">Selamat Datang di</string>
+    <string name="desc_model_small">Model asisten AI yang paling ringan untuk ponsel. Direkomendasikan untuk ponsel dengan RAM terbatas. Ukuran: 150 MB.</string>
+    <string name="desc_model_medium">Model yang direkomendasikan untuk penggunaan sehari-hari. Memberikan jawaban yang lebih akurat dibanding model Lite. Ukuran: 400 MB.</string>
+    <string name="desc_model_large">Merupakan model terbaik dan memberikan jawaban paling akurat dibanding model lainnya. Ukuran: 900 MB.</string>
+    <string name="desc_model_test">Model AI pengujian. Tidak direkomendasikan untuk digunakan secara umum.</string>
+    <string name="contact_us">Kontak kami</string>
+    <string name="change_ai_model">Ubah model AI</string>
+    <string name="delete_ai_model">Hapus model AI</string>
+    <string name="sample_chat_user_1">Tolong tulis surat ke guru saya untuk memberitahu bahwa saya sakit sehingga tidak bisa pergi ke sekolah.</string>
+    <string name="sample_chat_ai_1">Halo [Nama Guru] yang terhormat, saya harap surat ini menemukan Anda dalam keadaan sehat.\n\nSaya menulis untuk memberi tahu Anda bahwa saya merasa tidak enak badan dan, akibatnya, tidak dapat bersekolah hari ini. Saya telah berkonsultasi dengan dokter dan mereka menyarankan saya untuk tinggal di rumah dan beristirahat sampai saya benar-benar pulih.\n\nTerima kasih atas pengertian Anda dan saya berharap dapat segera kembali ke sekolah.</string>
+    <string name="unable_to_delete_aca">Tidak dapat menghapus model AI yang sedang aktif</string>
+    <string name="ai_model_to_delete">Model AI untuk Dihapus</string>
+    <string name="success_delete_ai_model_file">Berhasil menghapus file model AI</string>
+    <string name="the_updated_version_of_this_ai_model">Versi terbaru dari model AI ini dengan peningkatan performa dan akurasi.</string>
+    <string name="delete_text">Hapus</string>
+    <string name="press_again_to_exit">Tekan kembali untuk keluar</string>
+    <string name="by_continuing_you_agree">Dengan lanjut, kamu setuju dengan Kebijakan Layanan dan Kebijakan Privasi kami (Klik untuk lihat)</string>
+    <string name="keep_in_mind_delete">Setelah dihapus, kamu harus download ulang untuk memakai model yang sama.</string>
+    <string name="notification_is_needed">Kamu bakal butuh notifikasi buat cek progres download model AI</string>
+    <string name="hello_im_chatmagic">Halo! Saya adalah ChatMagic AI. Saya siap untuk membantu Anda dengan melakukan hal-hal berikut:\n1. Menjawab pertanyaan dan memberikan penjelasan\n2. Membantu dalam menulis konten berbasis teks\n3. Mengikuti perintah atau instruksi sederhana\n\nPerlu diingat bahwa saya masih memiliki keterbatasan. Saya bisa saja menulis informasi yang salah atau menghasilkan instruksi yang berbahaya. Tolong gunakan saya dengan hati-hati.</string>
+    <string name="there_is_an_error">Maaf, terjadi error saat sedang memuat model. Mohon restart aplikasi ChatMagic AI. Aplikasi akan menutup otomatis dalam 10 detik…</string>
+    <string name="chatmagic_ai_writing">ChatMagic AI (Menulis…)</string>
+
+</resources>

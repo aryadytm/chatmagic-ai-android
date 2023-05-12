@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>generation_parameters</key>
+    <value>{"doSample":true,"temperature":0.5,"topK":4,"topP":0.95,"repetitionPenalty":1.07,"maxNewTokens":512}</value>
+  </entry>
+  <entry>
+    <key>url_analytics</key>
+    <value>https://chatmagic-ai.vercel.app</value>
+  </entry>
+  <entry>
+    <key>url_privacy_policy</key>
+    <value>https://www.bytebooster.dev/apps/chatmagic-ai/chatmagic-ai-privacy-policy</value>
+  </entry>
+  <entry>
+    <key>url_contact</key>
+    <value>https://forms.gle/DGgpTabg9HY7ksH86</value>
+  </entry>
+  <entry>
+    <key>url_legal</key>
+    <value>https://www.bytebooster.dev/apps/chatmagic-ai</value>
+  </entry>
+  <entry>
+    <key>all_models</key>
+    <value>[{"id":-69,"type":"test:00 | s:01 | m:02 | l:03 | xl:04","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/xxxxxxxxxxxxxx.model","formatter":"formatter_*","name":"","description":"","size":0},{"id":2023031202,"type":"m","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/cm-m-2023031202.model","formatter":"formatter_convpair_cm","name":"","description":"","size":411820503},{"id":2023031101,"type":"s","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/cm-s-2023031101.model","formatter":"formatter_convpair_cm","name":"","description":"","size":167705753},{"id":2023031102,"type":"m","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/cm-m-2023031102.model","formatter":"formatter_convpair_cm","name":"","description":"","size":411820503},{"id":2023020802,"type":"m","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/cm-m-2023020802.model","formatter":"formatter_convpair_askth","name":"","description":"","size":411820448},{"id":2023020801,"type":"s","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/cm-s-2023020801.model","formatter":"formatter_convpair_askth","name":"","description":"","size":167708826},{"id":2023021500,"type":"test","downloadUrl":"https://huggingface.co/jliberio04/cm/resolve/main/helloworld.model","formatter":"formatter_convpair_askth","name":"","description":"","size":75296459}]</value>
+  </entry>
+  <entry>
+    <key>all_formatters</key>
+    <value>{"formatter_convpair_askth":{"name":"ConvPairFormatter","maxTokens":1800,"maxMessages":5,"userPrefix":"[Human]\n","botPrefix":"[Assistant]\n","userBotSeparator":"\n\n","trim":true},"formatter_turnbased_cgpt":{"name":"TurnBasedFormatter","maxTokens":1800,"maxMessages":5,"turnToken":"&lt;|eot|&gt;\n","trim":true},"formatter_convpair_cm":{"name":"ConvPairFormatter","maxTokens":1800,"maxMessages":5,"userPrefix":"&lt;|turn_start|&gt;user\n","botPrefix":"&lt;|turn_start|&gt;assistant\n","userBotSeparator":"&lt;|turn_end|&gt;\n","trim":true}}</value>
+  </entry>
+  <entry>
+    <key>url_terms_of_service</key>
+    <value>https://www.bytebooster.dev/apps/chatmagic-ai/chatmagic-ai-terms-of-service</value>
+  </entry>
+  <entry>
+    <key>url_feedback</key>
+    <value>https://forms.gle/mbfYNcg3unppZemKA</value>
+  </entry>
+  <entry>
+    <key>model_maps</key>
+    <value>{"test":2023020800,"s":2023031101,"m":2023031202,"l":2023021500,"xl":2023021500}</value>
+  </entry>
+</defaults>
