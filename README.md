@@ -2,15 +2,15 @@
 
 AI Chatbot Assistant for Android 
 
-## NOTE
+## Note
 
 The source code provided here is incomplete because further cleaning is needed to prevent sensitive information from being leaked.
 
-## DESCRIPTION
+## Description
 
 ChatMagic AI is artificial intelligence chatbot that works like OpenAI ChatGPT but runs locally on mobile phones without internet connection (offline first). ChatMagic AI uses LLM (Large Language Model) finetuned on chat-instruction dataset. Thanks to a custom runtime, quantization, and various model optimizations, I've managed to make a LLM with approximately 400 million parameters run in mobile devices consuming below 500 MB RAM with decent generation speed which is below 0.1s per token.
 
-## TECH USED
+## Tech
 
 Android:
 - Android Studio
@@ -25,7 +25,7 @@ Machine Learning:
 - Huggingface Transformers
 - DeepSpeed
 
-## SKILLS
+## Skills
 
 - Android Studio
 - Kotlin programming language
