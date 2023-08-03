@@ -1,10 +1,9 @@
 # ChatMagic AI
 
-AI Chatbot Assistant for Android 
+Offline AI Chatbot Assistant for Android (ChatGPT Clone). Download here: [Google Play Store](https://play.google.com/store/apps/details?id=dev.bytebooster.chatmagicai).
 
-## Note
+![ChatMagic AI Image](https://i.ibb.co/jrGzSwP/Chat-Magic-AI-3.png)
 
-The source code provided here is incomplete because further cleaning is needed to prevent sensitive information from being leaked.
 
 ## Description
 
