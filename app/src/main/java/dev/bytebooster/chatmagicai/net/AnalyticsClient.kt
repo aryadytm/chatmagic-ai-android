@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 class AnalyticsClient(private val remoteConfigDatasource: RemoteConfigDatasource) {
 
-    private val defaultBaseUrl = "https://[REDACTED]"
+    private val defaultBaseUrl = "https://chatmagic-ai.vercel.app"
     private val baseUrl = remoteConfigDatasource.getAnalyticsBaseUrl() ?: defaultBaseUrl
 
     private val client = OkHttpClient.Builder()

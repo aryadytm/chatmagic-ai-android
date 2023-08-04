@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "536951139444",
+    "project_id": "chatmagic-ai",
+    "storage_bucket": "chatmagic-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536951139444:android:c81d8c3a0c6746bbefb521",
+        "android_client_info": {
+          "package_name": "dev.bytebooster.chatmagicai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536951139444-93k8gv16c1d9vceg56flt8pqgu384vfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bytebooster.chatmagicai",
+            "certificate_hash": "abee9bbda5e423a6a69b91504da5b041c6f4a853"
+          }
+        },
+        {
+          "client_id": "536951139444-aej8epi79afmo42rgssh23og2g7g9jda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bytebooster.chatmagicai",
+            "certificate_hash": "9e80791c3904b764986109803e734d6ac1bb51aa"
+          }
+        },
+        {
+          "client_id": "536951139444-dsju410oesnne1btmg38t5ngn75nhuma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bytebooster.chatmagicai",
+            "certificate_hash": "90ee5ace1dbcb313f6ded4725a5ec92f2718b02f"
+          }
+        },
+        {
+          "client_id": "536951139444-h6ua1jv06d0gtpf4j2ib48m2mstm5gfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6Y8dEZU2yZciH1KiNsTz6H2Gd-zSzFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536951139444-h6ua1jv06d0gtpf4j2ib48m2mstm5gfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

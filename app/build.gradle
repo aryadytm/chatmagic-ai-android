@@ -9,6 +9,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('D:\\CS\\Android\\ChatMagicAI\\keystore\\release.jks')
+            storePassword 'S30@178579'
+            keyPassword 'S30@178579'
+            keyAlias 'release'
+        }
+    }
     namespace 'dev.bytebooster.chatmagicai'
     compileSdk 33
 
@@ -19,11 +27,14 @@ android {
         versionCode 108
         versionName "1.08"
 
+//        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         testInstrumentationRunner "dev.bytebooster.chatmagicai.CustomTestRunner"
 
         vectorDrawables {
             useSupportLibrary true
         }
+
+//        signingConfig signingConfigs.release
     }
 
     buildTypes {
